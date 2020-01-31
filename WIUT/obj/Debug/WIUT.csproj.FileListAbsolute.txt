@@ -1,0 +1,10 @@
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\bin\Debug\WIUT.exe.config
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\bin\Debug\WIUT.exe
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\bin\Debug\WIUT.pdb
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.csprojResolveAssemblyReference.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.Form1.resources
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.Properties.Resources.resources
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.csproj.GenerateResource.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.exe
+E:\WIUT\FunPro\C#\Tutorials\TW 13\WIUT\WIUT\obj\Debug\WIUT.pdb
